@@ -1,0 +1,56 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #edebe4;
+    color:#333333;
+    font-family: Georgia, "Times New Roman", Times, serif;
+}
+a{color:red}
+
+header{
+    text-align:center;
+    color: #ebebeb;
+    background-color: #2d2d2d;
+    padding:15px 0;
+}
+section{
+    display:inline-block; 
+}
+.container{
+    width: 1080px;
+    /*margin: 0 auto; */ /* Center Content if uncommented */
+    padding: 45px;
+}
+.container h2{
+    padding-bottom:15px;
+}
+#student-pic{
+    width:200px;
+    height: 200px;
+}
+#main-bio p{
+    display: inline-block;
+    text-align: top;
+    float: right;
+    width:470px;
+    font-size: 18px;
+    font-weight: 100;
+    line-height: 1.3;
+    padding-left:20px;
+}
+#contact-info{
+    display:inline-block;
+    float:right;
+    padding-left:5px;
+}
+#contact-info ul{
+    padding:0 15px;
+    margin-left: 25px;
+ }
+#contact-info li{
+    font-size: 18px;
+    line-height: 1.3;
+}
