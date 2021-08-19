@@ -21,7 +21,7 @@ section{
 }
 .container{
     width: 1080px;
-    /*margin: 0 auto; */ /* Center Content if uncommented */
+    margin: 0 auto; */ /* Center Content if uncommented */
     padding: 45px;
 }
 .container h2{
@@ -40,6 +40,7 @@ section{
     font-weight: 100;
     line-height: 1.3;
     padding-left:20px;
+    -webkit-font-smoothing:antialiased
 }
 #contact-info{
     display:inline-block;
