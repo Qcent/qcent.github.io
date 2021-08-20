@@ -20,9 +20,10 @@ section{
     display:inline-block; 
 }
 .container{
-    width: 1080px;
-    margin: 0 auto; */ /* Center Content if uncommented */
+    width: 1024px;
+    margin: 0 auto;  /* Center Content if uncommented */
     padding: 45px;
+    padding-right: 0;
 }
 .container h2{
     padding-bottom:15px;
@@ -33,9 +34,8 @@ section{
 }
 #main-bio p{
     display: inline-block;
-    text-align: top;
     float: right;
-    width:470px;
+    width:480px;
     font-size: 18px;
     font-weight: 100;
     line-height: 1.3;
