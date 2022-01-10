@@ -1,20 +1,31 @@
 {
   "files": {
-    "main.css": "/static/css/main.8b020ee8.css",
-    "main.js": "/static/js/main.729547fe.js",
+    "main.css": "/static/css/main.44914c4b.css",
+    "main.js": "/static/js/main.8f093036.js",
     "static/js/787.31e39e68.chunk.js": "/static/js/787.31e39e68.chunk.js",
+    "static/media/project-3dphoto.png": "/static/media/project-3dphoto.9dfbe6a737df87d99140.png",
     "static/media/head-shot.jpg": "/static/media/head-shot.a6bdba54ec29a6a3197a.jpg",
+    "static/media/project-robot-gladiators.png": "/static/media/project-robot-gladiators.a1e6dad936c46f8c8ed2.png",
+    "static/media/project-run-buddy.png": "/static/media/project-run-buddy.581589ae8901f3bc840e.png",
+    "static/media/project-poseidons-trunk.png": "/static/media/project-poseidons-trunk.d84e72b3333d84b7a70b.png",
+    "static/media/project-weather-forecast.png": "/static/media/project-weather-forecast.7fd9153939b8b35052af.png",
     "static/media/hero-bg.jpg": "/static/media/hero-bg.577f76d7cc41d3603179.jpg",
+    "static/media/project-onepalm.png": "/static/media/project-onepalm.e51a1b34c576db231253.png",
+    "static/media/project-pantry-remover.png": "/static/media/project-pantry-remover.c1cf54fd799973ad205b.png",
+    "static/media/project-poker.png": "/static/media/project-poker.fafa77c257ff231c0f33.png",
+    "static/media/project-blog-site.png": "/static/media/project-blog-site.97a1058b4e9e4719c9fd.png",
+    "static/media/project-taskinator.png": "/static/media/project-taskinator.979309d0b1a0c5aca4fd.png",
     "static/media/head-shot-drawn.png": "/static/media/head-shot-drawn.ea77c11a22d92c63d48d.png",
+    "static/media/project-jsquiz.png": "/static/media/project-jsquiz.8e19864935a9a3ace3a6.png",
     "static/media/logo.svg": "/static/media/logo.d3ac5fcff44671bdb0da31258266e355.svg",
     "static/media/rock-emoji.png": "/static/media/rock-emoji.f37fa7c7c49ab738940e.png",
     "index.html": "/index.html",
-    "main.8b020ee8.css.map": "/static/css/main.8b020ee8.css.map",
-    "main.729547fe.js.map": "/static/js/main.729547fe.js.map",
+    "main.44914c4b.css.map": "/static/css/main.44914c4b.css.map",
+    "main.8f093036.js.map": "/static/js/main.8f093036.js.map",
     "787.31e39e68.chunk.js.map": "/static/js/787.31e39e68.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8b020ee8.css",
-    "static/js/main.729547fe.js"
+    "static/css/main.44914c4b.css",
+    "static/js/main.8f093036.js"
   ]
 }
